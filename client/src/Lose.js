@@ -7,7 +7,7 @@ function Lose() {
 
     function handlePlayAgain(e) {
         e.preventDefault()
-        window.location.replace("/characters")
+        window.location.replace("/")
         // window.location.reload(false)
     }
 
